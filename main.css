@@ -1,0 +1,25 @@
+
+.navlevel1 {
+	padding-left: 0;
+}
+.navlevel1 li {
+	display: inline;
+	padding-right: 10px;
+}
+label,  input{
+	display: block;
+}
+label{
+	margin-bottom: 2px;
+}
+input{
+	margin-bottom: 15px;
+}
+input[type=submit]{
+	width: 150px;
+}
+textarea{
+	margin-bottom: 15px;
+	width: 250px;
+	height: 200px;
+}
